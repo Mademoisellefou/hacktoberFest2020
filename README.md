@@ -56,5 +56,5 @@ Ya hiciste tu primera contribución 😋.
 - Carlos Gutierrez [CarGDev Github](https://github.com/CarGDev)
 - Andres Fernando <GitHub: [andresfmj](https://github.com/andresfmj)>
 - Manuel Ojeda: https://github.com/manuelojeda
-
+- Libia Camata: https://github.com/Mademoisellefou
 > (Agrega tu nombre)
